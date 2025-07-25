@@ -1,4 +1,4 @@
-# 🎮 Tic Tac Toe Game
+# ❌⭕ Tic Tac Toe Game
 
 A Clean and Responsive Two-Player **Tic Tac Toe Game** built using **HTML, CSS, and JavaScript**. Challenge a friend and enjoy the classic game in your browser!
 

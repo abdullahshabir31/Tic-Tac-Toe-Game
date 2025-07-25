@@ -8,13 +8,13 @@ A Clean and Responsive Two-Player **Tic Tac Toe Game** built using **HTML, CSS, 
 
 # 🛠️ Technologies Used
 
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
 
 # 📌 Features
 
--Two-player gameplay (Player X vs Player O)
--Responsive UI – works on desktop and mobile
--Highlights winning combinations
--Option to restart the game
+- Two-player gameplay (Player X vs Player O)
+- Responsive UI – works on desktop and mobile
+- Highlights winning combinations
+- Option to restart the game
